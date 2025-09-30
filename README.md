@@ -106,9 +106,7 @@ Tech Stack: Python, Streamlit, LangChain, LLaMA3 (Groq API), MySQL
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saikiran-18\&theme=tokyonight\&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikiran-18\&layout=compact\&theme=tokyonight)
 
-### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=saikiran-18\&theme=onedark\&margin-w=15\&margin-h=15)
 
 ### 📈 Contribution Activity
 
