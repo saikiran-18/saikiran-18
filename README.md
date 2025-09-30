@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-🎓 B.Tech Artificial Intelligence & Data Science (CGPA: 8.13)
+🎓 B.Tech Artificial Intelligence & Data Science (CGPA: 8.20)
 🤖 AI/ML Engineer passionate about building intelligent systems
 📊 Skilled in Python, SQL, and Data Visualization
 🚀 Experienced with NLP, Generative AI, and Machine Learning projects
